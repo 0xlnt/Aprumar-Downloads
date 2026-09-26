@@ -1,8 +1,8 @@
-# Aprumar — downloads
+# Átrio — gestão de tarefas fiscais
 
 Este repositório contém somente os instaladores e os arquivos de atualização do Aprumar. O código-fonte permanece em um repositório privado.
 
-Baixe a [versão 0.4.0](https://github.com/0xlnt/Aprumar-Downloads/releases/tag/v0.4.0) na página de Releases. O banco de dados já foi migrado, preservando as empresas, notas, históricos e contas cadastradas antes da atualização.
+Baixe a [versão 0.4.1](https://github.com/0xlnt/Atrio/releases/tag/v0.4.1) na página de Releases. O banco de dados já foi migrado, preservando as empresas, notas, históricos e contas cadastradas antes da atualização.
 
 Baixar o programa não concede acesso aos dados. Novas contas dependem da aprovação de um administrador e das regras de domínio de e-mail configuradas no aplicativo.
 
